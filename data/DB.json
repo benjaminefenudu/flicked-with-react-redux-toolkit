@@ -1,0 +1,52 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "author": "Ben",
+      "title": "My favorite things",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis distinctio sit minima reiciendis harum qui cum, hic magnam natus exercitationem enim nisi ratione adipisci laudantium ex fugiat ad vitae? Praesentium itaque, libero optio qui dolorem ducimus voluptatibus perferendis cum, placeat molestias corporis cupiditate quasi ipsum suscipit, molestiae nam voluptas! Consequatur dolores asperiores adipisci cum eveniet officiis reprehenderit neque reiciendis. Quo cum, ea ducimus repellat dolorum sit necessitatibus cumque minus, itaque, tenetur quis laboriosam a enim ipsa sequi impedit harum dicta aut. Corporis animi eveniet accusantium facere assumenda voluptatum labore maiores ut reiciendis ipsam voluptates voluptatibus deserunt, molestiae quibusdam nemo asperiores."
+    },
+    {
+      "id": 2,
+      "author": "Nomso",
+      "title": "My favorite things",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis distinctio sit minima reiciendis harum qui cum, hic magnam natus exercitationem enim nisi ratione adipisci laudantium ex fugiat ad vitae? Praesentium itaque, libero optio qui dolorem ducimus voluptatibus perferendis cum, placeat molestias corporis cupiditate quasi ipsum suscipit, molestiae nam voluptas! Consequatur dolores asperiores adipisci cum eveniet officiis reprehenderit neque reiciendis. Quo cum, ea ducimus repellat dolorum sit necessitatibus cumque minus, itaque, tenetur quis laboriosam a enim ipsa sequi impedit harum dicta aut. Corporis animi eveniet accusantium facere assumenda voluptatum labore maiores ut reiciendis ipsam voluptates voluptatibus deserunt, molestiae quibusdam nemo asperiores."
+    },
+    {
+      "id": 3,
+      "author": "Tems",
+      "title": "My favorite things",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis distinctio sit minima reiciendis harum qui cum, hic magnam natus exercitationem enim nisi ratione adipisci laudantium ex fugiat ad vitae? Praesentium itaque, libero optio qui dolorem ducimus voluptatibus perferendis cum, placeat molestias corporis cupiditate quasi ipsum suscipit, molestiae nam voluptas! Consequatur dolores asperiores adipisci cum eveniet officiis reprehenderit neque reiciendis. Quo cum, ea ducimus repellat dolorum sit necessitatibus cumque minus, itaque, tenetur quis laboriosam a enim ipsa sequi impedit harum dicta aut. Corporis animi eveniet accusantium facere assumenda voluptatum labore maiores ut reiciendis ipsam voluptates voluptatibus deserunt, molestiae quibusdam nemo asperiores."
+    },
+    {
+      "title": "my favorite things",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis distinctio sit minima reiciendis harum qui cum, hic magnam natus exercitationem enim nisi ratione adipisci laudantium ex fugiat ad vitae? Praesentium itaque, libero optio qui dolorem ducimus voluptatibus perferendis cum, placeat molestias corporis cupiditate quasi ipsum suscipit, molestiae nam voluptas! Consequatur dolores asperiores adipisci cum eveniet officiis reprehenderit neque reiciendis. Quo cum, ea ducimus repellat dolorum sit necessitatibus cumque minus, itaque, tenetur quis laboriosam a enim ipsa sequi impedit harum dicta aut. Corporis animi eveniet accusantium facere assumenda voluptatum labore maiores ut reiciendis ipsam voluptates voluptatibus deserunt, molestiae quibusdam nemo asperiores",
+      "author": "Favour",
+      "id": 4
+    },
+    {
+      "title": "My favorite title",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis distinctio sit minima reiciendis harum qui cum, hic magnam natus exercitationem enim nisi ratione adipisci laudantium ex fugiat ad vitae? Praesentium itaque, libero optio qui dolorem ducimus voluptatibus perferendis cum, placeat molestias corporis cupiditate quasi ipsum suscipit, molestiae nam voluptas! Consequatur dolores asperiores adipisci cum eveniet officiis reprehenderit neque reiciendis. Quo cum, ea ducimus repellat dolorum sit necessitatibus cumque minus, itaque, tenetur quis laboriosam a enim ipsa sequi impedit harum dicta aut. Corporis animi eveniet accusantium facere assumenda voluptatum labore maiores ut reiciendis ipsam voluptates voluptatibus deserunt, molestiae quibusdam nemo asperiores.",
+      "author": "Favour",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "firstname": "benjamin",
+      "surname": "efenudu",
+      "email": "benjaminefenudu@gmail.com",
+      "bio": "Nothing to say",
+      "password": "12345678",
+      "id": 1
+    },
+    {
+      "firstname": "favour",
+      "surname": "okoro",
+      "email": "favourokoro@gmail.com",
+      "bio": "The Bunny and the Bear ... Hehehehe!!!",
+      "password": "12345678",
+      "id": 2
+    }
+  ]
+}
